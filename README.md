@@ -12,3 +12,5 @@ My hobbies
 My education
 1. ABC Primary School
 2. Dunman High School
+
+![My favorite fruit](banana.jpg)
